@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block content %}
+
+     <a href="/"><button type="button" class="btn btn-primary">Back</button></a>
+
+       <a href="/upload1/{{ id }}/{{ Name }}"><button type="button" class="btn btn-primary">upload NewSchedule</button></a>
+    <table class="table" cellspacing="0" border="5" style="border-collapse:collapse">
+    <thead>
+      <tr>
+          <th> </th>
+          <th width="25%">FilmName</th>
+          <th width="20%">Room</th>
+          <th width="15%">Date</th>
+          <th width="20%">Time</th>
+          <th>operation</th>
+      </tr>
+    </thead>
+
+
+    <tbody>
+
+{% for schedule in schedules %}
+    <tr>
+
+       <td width="35%" >
+           <img src="{{  url_for('static',filename= Film.image) }}" height="170px" width="100%" alt="test"/>
+       </td>
+      <td>
+             <p>FilmName:{{ schedule[0] }}</p>
+      </td>
+     <td>
+             <p>Room Number:{{ schedule[1] }}</p>
+      </td>
+        <td>
+             <p>{{ schedule[2] }}</p>
+      </td>
+        <td>
+              <p>{{ schedule[3] }}</p>
+        </td>>
+
+
+     <td>
+         <p style="padding-top:35%;" ><a href=""><button type="button" class="btn btn-primary">查看售票情况</button></a></p>
+         <p style="padding-top:35%;" ><a href="/delete/schedule/{{ schedule[4] }}"><button type="button" class="btn btn-primary">下架该时间段的电影</button></a></p>
+      </td>
+
+    </tr>
+
+    {% endfor %}
+  </tbody>
+
+    </table>
+
+
+
+
+{% endblock %}

@@ -1,0 +1,73 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+
+
+
+{% block content %}
+  <h1>Upload new Game</h1>
+  <form action="" enctype='multipart/form-data' method="post" name="create">
+      {{ form.hidden_tag() }}
+      <p>
+          Film Name :<br>
+          {{ form.FilmName(cols='80',class_='form-control') }}<br>
+          {% for error in form.FilmName.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film Blurb:<br>
+          {{ form.Blurb(cols='80',class_='form-control') }}<br>
+          {% for error in form.Blurb.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film Certificate :<br>
+          {{ form.Certificate(cols='80',class_='form-control') }}<br>
+          {% for error in form.Certificate.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film Director :<br>
+          {{ form.Director(cols='80',class_='form-control') }}<br>
+          {% for error in form.Director.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film LeadActors :<br>
+          {{ form.LeadActors(cols='80',class_='form-control') }}<br>
+          {% for error in form.LeadActors.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film FilmLength :<br>
+           {{ form.FilmLength(cols='80',class_='form-control') }}<br>
+          {% for error in form.FilmLength.errors %}
+                  <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film Genre :<br>
+          {{ form.Genre(cols='80',class_='form-control js-example-basic-multiple') }}<br>
+          {% for error in form.Genre.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Film Ranking :<br>
+           {{ form.Ranking(cols='80',class_='form-control') }}<br>
+          {% for error in form.Ranking.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+          Image:<br>
+          <input type="file" name="file" style="margin-top:20px;"/><br>
+          {% for error in form.file.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+
+      </p>
+      <p><input type="submit" class="btn btn-default" value="Upload">
+     <a href="/"><button type="button" class="btn btn-primary">Home</button></a>
+      </p>
+  </form>
+
+
+{% endblock %}

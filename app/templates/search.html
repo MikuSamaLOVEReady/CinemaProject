@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+  <h1>Search</h1>
+      <form action="" method="post" name="search">
+      {{ form.hidden_tag() }}
+      <p>
+          <br>
+          Date:{{ form.Date(cols='80',class_='form-control') }}<br>
+           {% for error in form.Date.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+          {% endfor %}<br>
+      </p>
+        <p><input type="submit" class="btn btn-default" value="Search"></p>
+      </form>
+
+    {%  if schedules%}
+    <table class="table">
+    <thead>
+      <tr>
+           <th>image</th>
+        <th>FilmName</th>
+          <th>Room</th>
+        <th>Date</th>
+        <th>Time</th>
+
+
+      </tr>
+    </thead>
+    <tbody>
+
+
+    {% for schedule in schedules %}
+    <tr>
+    <td width = 20%> <img src="{{  url_for('static',filename=schedule[4]) }}" height="170px" width="100%" alt="test"/> </td>
+      <td>{{schedule[0]}}</td>
+      <td>{{schedule[1]}}</td>
+      <td>{{schedule[2]}}</td>
+      <td>{{schedule[3]}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+  </table>
+    {% endif %}
+{% endblock %}

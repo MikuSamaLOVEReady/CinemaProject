@@ -1,0 +1,113 @@
+<html>
+
+  <head>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link href="https://cdn.bootcss.com/cookieconsent2/3.1.0/cookieconsent.min.css" rel="stylesheet">
+<script src="https://cdn.bootcss.com/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script src="http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="/static/css/print.css">
+<link rel="stylesheet" href="/static/css/select2-bootstrap.css">
+<link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+    {% if title %}
+    <title>University application - {{ title }}</title>
+    {% else %}
+    <title>University application</title>
+    {% endif %}
+    <style>
+      ul#menu li {
+          display:inline;
+      }
+    </style>
+  </head>
+
+  <body>
+
+  <script type="text/javascript">
+      window.addEventListener("load",function () {
+          window.cookieconsent.initialise({
+              "palette":{
+                  "popup":{
+                      "background":"#eaf7f7",
+                      "text":"#5c7291"
+                  },
+                  "button":{
+                      "background":"#56cbdb",
+                      "text":"#ffffff"
+                  }
+              },
+              "content":{
+                  "message":"This web site uses cookies so that we can provide better service",
+                  "dismiss":"GREAT!"
+              }
+          })
+      });
+
+
+  function totalcost(){
+      var cost= document.getElementById("money").innerHTML;
+      if(typeof(Storage) !== "undefined") {
+        if (localStorage.Totalmoney) {
+            localStorage.Totalmoney = Number(cost);
+        } else {
+            localStorage.Totalmoney =Number(cost);
+        }
+      // document.getElementById("result").innerHTML = "dasa"+Number(localStorage.Totalmoney);
+    } else {
+        document.getElementById("result").innerHTML = "抱歉！您的浏览器不支持 Web Storage ...";
+      }
+        alert("The total sales are  "+localStorage.Totalmoney+" yuan!!, thanks for your patronage.");
+    }
+
+      $(document).ready(function() {
+        $('.js-example-basic-multiple').select2({
+            theme: 'bootstrap',
+            maximumSelectionLength: 2, // 设置最多可以选择多少个
+        });
+      });
+    </script>
+
+    <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+    <li><a href="/"><span class="glyphicon glyphicon-remove"></span> </a></li>
+</ul>
+      <div class="container-fluid">
+	  <form  method="post" class="navbar-form navbar-right" action="一个用于显示结果的网页" role="search">
+		<div class="form-group">
+			<input type="text" value="please input..." class="form-control" placeholder="Search" onfocus="if(value=='please input...') {value=''}" onblur="if(value=='') {value='please input...'}" value="please input...">
+		</div>
+		<button type="submit" class="btn btn-default">search</button>
+	  </form>
+	</div>
+      </div>
+</nav>
+
+
+
+
+
+  </div>
+
+
+     <p id ="money" style="color:white">{{ Money }}</p>
+
+
+    <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+
+
+        {% block content %}{% endblock %}
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+
+
+  </body>
+</html>

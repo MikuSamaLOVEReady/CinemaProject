@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+
+
+    <head>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js') }}" ></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/ajax_js.js') }}" ></script>
+</head>
+    <h1 text-align="center">Miku Cinema</h1>
+
+    <button  onclick="totalcost()"  type="button" class="btn btn-primary">How much has this platform earned?</button>
+
+
+    <a href="/upload"><button type="button" class="btn btn-primary">Update NewFilm</button></a>
+
+    <a href="/search_schedule"><button type="button" class="btn btn-primary">Search by time</button></a>
+
+
+
+    <table class="table" cellspacing="0" border="5" style="border-collapse:collapse";>
+    <thead>
+      <tr>
+          <th width="25%">Film</th>
+          <th width="30%">information</th>
+          <th width="15%">sales</th>
+          <th width="20%">price</th>
+          <th width="10%">operation</th>
+      </tr>
+    </thead>
+
+
+    <tbody>
+
+{% for Film in films %}
+    <tr>
+
+       <td width="35%" >
+           <img src="{{  url_for('static',filename= Film[0]) }}" height="170px" width="100%" alt="test"/>
+       </td>
+      <td>
+          <p>FilmName: {{Film[1]}}</p>
+          <br>
+          <p>FilmBlurb: {{Film[2]}}</p>
+          <br>
+           <p>Certificate:{{Film[3]}}</p>
+          <br>
+          <br>
+      </td>
+     <td>
+             <p>Director:{{Film[4]}}</p>
+             <br>
+             <p>LeadActors:{{Film[5]}}</p>
+             <br>
+             <p>FilmLength:{{Film[6]}}</p>
+      </td>
+
+        <td>
+             <p>Genre:{{Film[7]}}</p>
+             <p>Ranking:{{Film[8]}}</p>
+      </td>
+
+     <td>
+         <p style="padding-top:35%;" ><a href="/{{ Film[9] }}/{{ Film[1]}}"><button type="button" class="btn btn-primary">查看所有场次</button></a></p>
+         <p style="padding-top:35%;" ><a href="/delete/{{ Film[9] }}"><button type="button" class="btn btn-primary">下架该电影</button></a></p>
+      </td>
+
+
+
+    </tr>
+
+    {% endfor %}
+  </tbody>
+
+    </table>
+
+
+
+
+    <!--第二个   <p><a href="/create_task"><button type="button" class="btn btn-primary">Create tasks</button></a></p>-->
+
+
+{% endblock %}

@@ -1,0 +1,627 @@
+
+2019-12-18 15:45:44,117 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:45:44,117 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:45:45,765 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:45:45,772 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:45:45,773 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:45:49,309 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:45:49,315 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:45:49,315 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:46:40,183 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:46:40,190 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:46:40,190 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:46:43,967 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:46:43,973 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:46:43,973 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:46:58,998 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:46:59,005 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:46:59,005 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:31,377 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:31,377 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:34,561 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:49:34,567 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:34,567 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:37,910 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 15:49:41,747 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:49:41,755 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:41,755 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:46,337 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:49:46,344 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:46,344 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:49,339 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:49:49,346 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:49,346 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:55,099 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:49:55,106 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:55,106 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:49:56,755 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 15:49:57,728 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:49:57,735 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:49:57,735 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:04,389 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:50:04,395 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:04,395 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:07,500 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:50:07,507 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:07,507 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:15,003 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:50:15,010 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:15,011 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:26,102 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:50:26,110 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:26,110 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:31,594 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:50:31,600 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:31,600 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:33,462 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 15:50:34,432 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:50:34,439 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:34,439 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:37,073 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:50:37,080 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:37,080 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:42,061 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:50:42,068 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:42,069 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:46,391 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:50:46,397 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:46,398 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:50:50,662 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:50:50,669 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:50:50,669 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:51:38,893 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:51:38,893 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:51:42,282 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:51:42,286 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:51:42,286 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:51:45,951 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:51:45,955 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:51:45,955 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:51:46,927 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:51:46,931 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:51:46,931 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:52:08,616 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:52:08,616 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:52:11,854 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:52:11,861 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:52:11,861 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:52:54,978 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:52:54,979 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:52:56,096 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:52:56,102 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:52:56,102 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:53:00,636 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:53:00,643 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:53:00,643 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:53:05,496 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 15:53:14,967 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:53:14,968 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:54:38,442 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:54:38,450 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:54:38,450 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:54:41,263 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:54:41,270 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:54:41,270 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:54:42,040 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 15:55:00,387 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:55:00,387 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:58:20,287 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 15:58:20,315 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:58:20,315 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:58:23,063 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 15:58:23,069 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 15:58:23,069 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 15:58:24,002 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:00,897 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 16:01:00,927 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:01:00,928 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:01:03,747 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 16:01:03,753 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:01:03,754 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:01:05,009 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:08,822 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:10,748 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:12,014 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:20,761 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:01:20,761 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:01:35,499 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:41,552 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:43,496 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:46,203 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:48,662 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:50,601 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:51,899 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:54,987 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:56,052 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:01:57,532 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 16:01:57,538 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:01:57,539 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:04:22,603 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 16:04:22,609 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:04:22,609 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:04:32,725 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:04:32,726 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:04:43,032 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:04:43,032 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:04:44,501 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:04:45,363 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:04:45,363 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:04:46,100 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 16:04:49,666 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:04:49,667 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:04:58,866 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:04:58,866 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:05:12,163 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 16:05:12,171 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:05:12,171 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:05:18,407 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:05:18,407 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:05:22,198 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 16:05:22,205 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:05:22,205 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:05:23,630 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 16:05:23,637 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:05:23,637 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 16:05:30,125 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 16:05:30,125 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:42:36,943 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:42:36,945 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:09,538 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:09,538 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:13,487 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 17:43:13,493 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:13,493 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:27,088 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 17:43:27,095 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:27,095 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:31,362 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 17:43:31,368 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:31,368 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:34,235 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 17:43:36,291 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 17:43:36,298 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:36,298 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:36,809 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 17:43:39,723 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 17:43:39,730 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:39,730 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 17:43:42,962 - INFO - views.py - shopping - 56 - User %d check out
+2019-12-18 17:43:45,294 - INFO - views.py - logout - 54 - User has log out
+2019-12-18 17:43:45,301 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 17:43:45,301 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:01:36,084 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:01:36,085 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:04:02,311 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:04:02,312 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:09:18,954 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 18:09:18,961 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:09:18,961 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:09:20,417 - INFO - views.py - logout - 59 - User has log out
+2019-12-18 18:09:20,425 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:09:20,425 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:10:26,621 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:10:26,621 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:10:33,000 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:10:33,000 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:10:37,171 - INFO - views.py - login - 17 - User Miku has logged in
+2019-12-18 18:10:37,177 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:10:37,178 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:10:38,594 - INFO - views.py - logout - 59 - User has log out
+2019-12-18 18:10:38,601 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:10:38,601 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:18:12,096 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:18:12,096 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:32:08,853 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:32:08,854 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:32:19,871 - INFO - views.py - admlog - 50 - Administer LoveMiku has logged in
+2019-12-18 18:32:32,754 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:32:32,755 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:32:57,941 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:32:57,942 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:32:59,608 - INFO - views.py - logout - 72 - User has log out
+2019-12-18 18:32:59,615 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:32:59,615 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:39:50,877 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:39:50,877 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:41:29,342 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:41:29,342 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:41:56,504 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:41:56,504 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:42:02,289 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:42:02,289 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:42:08,801 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:42:08,801 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:42:17,692 - INFO - views.py - admlog - 53 - Administer LoveMiku has logged in
+2019-12-18 18:42:17,696 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:42:17,697 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:42:19,919 - INFO - views.py - logout - 74 - User has log out
+2019-12-18 18:42:19,926 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:42:19,926 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:47:25,916 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:47:25,916 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:47:40,538 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:47:40,538 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:48:32,142 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:48:32,142 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 18:48:39,827 - INFO - views.py - admlog - 53 - Administer LoveMiku has logged in
+2019-12-18 18:48:39,831 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 18:48:39,831 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:00:34,132 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:00:34,133 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:01:04,637 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:01:04,637 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:06:09,109 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:06:09,109 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:30:59,391 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:30:59,392 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:36:07,095 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:36:07,095 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:36:16,128 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:36:16,128 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:45:47,274 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:45:47,275 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:45:56,111 - INFO - views.py - logout - 74 - User has log out
+2019-12-18 19:45:56,118 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:45:56,118 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:46:06,880 - INFO - views.py - regist - 66 - User AAA has register in
+2019-12-18 19:46:11,279 - INFO - views.py - login - 20 - User AAA has logged in
+2019-12-18 19:46:11,286 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:46:11,286 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:46:13,337 - INFO - views.py - logout - 74 - User has log out
+2019-12-18 19:46:13,344 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:46:13,344 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:46:18,996 - INFO - views.py - admlog - 53 - Administer LoveMiku has logged in
+2019-12-18 19:46:19,001 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:46:19,001 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:46:37,517 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:46:37,517 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:53:34,543 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:53:34,543 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:54:11,529 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:54:11,529 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:54:28,097 - INFO - views.py - regist - 66 - User Miku has register in
+2019-12-18 19:54:30,923 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-18 19:54:30,930 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:54:30,930 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:54:42,339 - INFO - views.py - logout - 74 - User has log out
+2019-12-18 19:54:42,346 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:54:42,346 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 19:55:10,958 - INFO - views.py - admlog - 53 - Administer LoveMiku has logged in
+2019-12-18 19:55:10,962 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 19:55:10,962 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:00:48,102 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:00:48,103 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:03:44,581 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:03:44,582 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:05:07,963 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:05:07,964 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:05:44,964 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:05:44,964 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:07:40,205 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:07:40,205 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:11:58,293 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:11:58,293 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:12:27,327 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:12:27,327 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:13:11,918 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:13:11,918 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 20:19:39,539 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 20:19:39,539 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:25:14,869 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:25:14,870 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:27:01,383 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:27:01,383 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:27:30,363 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:27:30,363 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:27:36,177 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:27:36,178 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:31:42,242 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:31:42,242 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:31:43,755 - INFO - views.py - logout - 74 - User has log out
+2019-12-18 22:31:43,762 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:31:43,762 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:31:46,768 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-18 22:31:46,775 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:31:46,775 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:33:00,552 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:33:00,553 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:33:02,571 - INFO - views.py - shopping - 93 - User %d check out
+2019-12-18 22:33:03,666 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:33:03,666 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 22:33:41,035 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 22:33:41,035 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 23:08:18,404 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 23:08:18,404 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-18 23:08:19,381 - INFO - views.py - index - 16 - Home page loaded
+2019-12-18 23:08:19,382 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:45:40,399 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:45:40,400 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:50:28,093 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:50:28,093 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:53:13,040 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:53:13,041 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:54:46,935 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:54:46,935 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:55:01,968 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:55:01,969 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:55:27,244 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:55:27,244 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:56:28,604 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:56:28,604 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:56:32,505 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:56:32,505 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:56:41,092 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 12:56:41,099 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:56:41,099 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:56:46,454 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:56:46,454 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 12:57:03,307 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 12:57:03,307 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:05:19,305 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:05:19,314 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:05:19,314 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:08:01,700 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:08:01,700 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:10:33,295 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:10:33,296 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:10:50,292 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:10:50,293 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:11:42,471 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:11:42,472 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:11:49,314 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:11:49,321 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:11:49,321 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:11:51,564 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:11:51,564 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:12:19,037 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:12:19,037 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:12:41,183 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:12:41,184 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:12:49,512 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:12:49,518 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:12:49,519 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:12:51,661 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 13:12:51,669 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:12:51,669 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:12:58,956 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:12:58,963 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:12:58,963 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:13:01,518 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 13:13:01,525 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:13:01,525 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:13:06,656 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:13:06,657 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:13:10,415 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:13:10,421 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:13:10,421 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:14:13,240 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 13:14:13,249 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:14:13,249 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:20:09,326 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:20:09,327 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:20:17,065 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:20:17,066 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:20:22,339 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:20:22,346 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:20:22,346 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:20:34,291 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 13:20:34,300 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:20:34,300 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:20:40,191 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:20:40,191 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:20:59,027 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:20:59,027 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:24:10,147 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:24:10,147 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:24:15,671 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:24:15,678 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:24:15,678 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:24:16,921 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:24:16,921 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:24:18,936 - INFO - views.py - shopping - 93 - User %d check out
+2019-12-19 13:24:20,904 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:24:20,904 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:25:02,309 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:25:02,309 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:25:03,795 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 13:25:03,802 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:25:03,802 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:25:09,456 - INFO - views.py - login - 20 - User Miku has logged in
+2019-12-19 13:25:09,463 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:25:09,463 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:27:26,238 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:27:26,238 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:27:27,232 - INFO - views.py - logout - 74 - User has log out
+2019-12-19 13:27:27,239 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:27:27,239 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:32:39,620 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:32:39,620 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:35:12,131 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:35:12,131 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:44:37,904 - INFO - views.py - regist - 69 - User AA has register in
+2019-12-19 13:44:43,093 - INFO - views.py - login - 23 - User AA has logged in
+2019-12-19 13:44:43,101 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:44:43,101 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:48:05,882 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:48:05,883 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:48:07,469 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 13:48:07,476 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:48:07,476 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 13:48:20,355 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 13:48:20,355 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 16:35:08,870 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 16:35:08,871 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 16:38:44,936 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 16:38:44,936 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:16:05,222 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:16:05,222 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:16:11,419 - WARNING - views.py - login - 40 - User log in failure
+2019-12-19 19:16:17,822 - WARNING - views.py - login - 40 - User log in failure
+2019-12-19 19:16:24,659 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:16:24,666 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:16:24,666 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:16:27,807 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:16:27,807 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:17:03,846 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:17:03,846 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:17:05,328 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:17:05,335 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:17:05,335 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:17:08,278 - WARNING - views.py - login - 40 - User log in failure
+2019-12-19 19:17:11,471 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:17:11,478 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:17:11,478 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:17:23,155 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:17:23,155 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:18:18,737 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:18:18,745 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:18:18,745 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:18:25,291 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:18:25,298 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:18:25,298 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:19:50,010 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:19:50,010 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:19:52,087 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:19:52,094 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:19:52,095 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:19:55,477 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:19:55,483 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:19:55,484 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:22:32,954 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:22:32,954 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:22:39,602 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:22:39,608 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:22:39,608 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:23:02,922 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:23:02,952 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:23:02,952 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:23:06,487 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:23:06,494 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:23:06,494 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:01,115 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:01,115 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:07,565 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:36:07,573 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:07,573 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:16,259 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:16,259 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:21,242 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:36:21,248 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:21,248 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:22,549 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:36:22,556 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:22,556 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:27,571 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:36:27,580 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:27,580 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:33,876 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:36:33,882 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:33,882 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:37,656 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:37,656 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:44,208 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:36:44,214 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:44,214 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:50,757 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:50,758 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:36:59,261 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:36:59,261 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:37:18,838 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:37:18,845 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:37:18,846 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:37:24,610 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:37:24,616 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:37:24,617 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:24,455 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:24,456 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:26,408 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:38:26,415 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:26,415 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:31,313 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:38:31,323 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:31,323 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:33,065 - INFO - views.py - shopping - 98 - User %d check out
+2019-12-19 19:38:36,469 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:36,469 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:39,996 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:39,996 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:44,987 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:44,987 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:50,382 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:50,382 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:51,415 - INFO - views.py - shopping - 98 - User %d check out
+2019-12-19 19:38:53,126 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:53,127 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:55,693 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:55,693 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:38:58,964 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:38:58,964 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:42:20,894 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:42:20,895 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:42:23,411 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 19:42:23,418 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:42:23,418 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:42:27,463 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 19:42:27,469 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:42:27,469 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 19:42:30,300 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 19:42:30,301 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 21:28:08,115 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 21:28:08,132 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 21:28:08,132 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 22:18:35,392 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 22:18:35,393 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 22:18:57,614 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 22:18:57,615 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 22:58:59,436 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 22:58:59,438 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 22:59:05,145 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 22:59:05,152 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 22:59:05,152 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:24:54,247 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:24:54,249 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:24:55,696 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 23:24:55,704 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:24:55,704 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:00,153 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 23:25:00,159 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:00,160 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:13,657 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:13,658 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:16,362 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:16,362 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:21,981 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:21,982 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:34,665 - INFO - views.py - shopping - 98 - User check out
+2019-12-19 23:25:36,631 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 23:25:36,639 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:36,639 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:41,205 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 23:25:41,212 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:41,212 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:43,668 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:43,668 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:50,627 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:50,628 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:54,224 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:54,225 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:25:57,770 - INFO - views.py - logout - 77 - User has log out
+2019-12-19 23:25:57,777 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:25:57,777 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:26:04,372 - INFO - views.py - login - 23 - User Miku has logged in
+2019-12-19 23:26:04,379 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:26:04,379 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:26:08,103 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:26:08,103 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:26:22,219 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:26:22,219 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:26:25,274 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:26:25,274 - DEBUG - views.py - index - 17 - this is adebug
+2019-12-19 23:26:27,482 - INFO - views.py - index - 16 - Home page loaded
+2019-12-19 23:26:27,483 - DEBUG - views.py - index - 17 - this is adebug
+2020-02-26 22:28:15,019 - INFO - views.py - index - 16 - Home page loaded
+2020-02-26 22:28:15,020 - DEBUG - views.py - index - 17 - this is adebug
+2020-02-26 22:29:28,466 - INFO - views.py - index - 16 - Home page loaded
+2020-02-26 22:29:28,467 - DEBUG - views.py - index - 17 - this is adebug
+2020-02-26 22:30:30,517 - INFO - views.py - index - 16 - Home page loaded
+2020-02-26 22:30:30,517 - DEBUG - views.py - index - 17 - this is adebug

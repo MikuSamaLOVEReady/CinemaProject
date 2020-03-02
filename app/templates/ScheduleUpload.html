@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+{% block title %}UPLOAD{% endblock %}
+{% block content %}
+
+
+
+<h1>Up Load new Game</h1>
+  <form action="" enctype='multipart/form-data' method="post" name="create">
+      {{ form.hidden_tag() }}
+  <p>
+        Film Price :<br>
+          {{ form.Price(cols='80',class_='form-control') }}<br>
+            {% for error in form.Price.errors %}
+                <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}<br>
+
+        Room:<br>
+          {{ form.Room(cols='80',class_='form-control')  }}<br>
+            {% for error in form.Room.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}<br>
+
+        Date:<br>
+          {{ form.Date(cols='80',class_='form-control')  }}<br>
+            {% for error in form.Date.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}<br>
+
+        Time:<br>
+          {{ form.Time(cols='80',class_='form-control') }}<br>
+            {% for error in form.Time.errors %}
+              <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}<br>
+
+        <br>
+        {{ form.submit }}<br>
+   </p>
+   </form>
+
+{% endblock %}
